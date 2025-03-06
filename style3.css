@@ -105,7 +105,7 @@ html {
 
 #home::before {
     content: "";
-    background: url('img/photo-1619250921784-7b2b5070e498.avif')no-repeat center center/cover;
+    background: url('photo-1619250921784-7b2b5070e498.avif')no-repeat center center/cover;
     position: absolute;
     top: 0;
     left: 0px;
